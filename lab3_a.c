@@ -142,7 +142,15 @@ void deleteLast(sList_t* l) {
     printf("\n");
 }
 
+void freeNode(sList_t* l){
+    node_t *temp;
+    while (l->head) {
+        temp = l->head->next;
+        free(l->head);
+        l->head = temp;
+    }
 
+}
 
 int main() {
     node_t* node1 = makeNode(23);
@@ -183,5 +191,7 @@ int main() {
     scanf("%d", &pos);
     insert(sl, element2, pos);
 
+    freeNode(sl);
+    free(sl);
     return 0;
 }
