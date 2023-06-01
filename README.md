@@ -1,5 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Ad3CiblN)
 # Lab3
+PART 1
+
+![screenshot1](https://github.com/CS5008-5009/lab3-yw3152/assets/78605223/1de42250-e15d-446e-a694-2c54377c70d2)
+![screenshot2](https://github.com/CS5008-5009/lab3-yw3152/assets/78605223/6144ce41-b918-4dca-9df6-bc1721509962)
+
+
+
 Lab 3
 This assignment has 2 parts. You need to implement single linked list (in part 1) and doubly linked list (in part 2). You will create 1 file for each part, 2 files in total. Upload your .c files on GitHub. Don’t forget to attach the output screenshots in README.md.
  
