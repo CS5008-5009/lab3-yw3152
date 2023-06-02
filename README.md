@@ -5,6 +5,10 @@ PART 1
 ![screenshot1](https://github.com/CS5008-5009/lab3-yw3152/assets/78605223/1de42250-e15d-446e-a694-2c54377c70d2)
 ![screenshot2](https://github.com/CS5008-5009/lab3-yw3152/assets/78605223/6144ce41-b918-4dca-9df6-bc1721509962)
 
+PART 2
+
+![screenshot1](https://github.com/CS5008-5009/lab3-yw3152/assets/78605223/16a9076a-406a-44a4-a173-f571faec8848)
+![screenshot2](https://github.com/CS5008-5009/lab3-yw3152/assets/78605223/484d75a5-5618-49ab-9c5e-eb7c51447373)
 
 
 Lab 3
